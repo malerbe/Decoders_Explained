@@ -16,9 +16,9 @@ This repository is not made to use the code inside in itself, but as a summary o
 
 You will find:
 
-1. A explanations.ipynb notebook in which you will find all the information about encoders and their code implementation.
+1. A explanations.ipynb notebook in which you will find all the information about decoders and their code implementation.
 
-2. A mini-project folder in which you will find a code and a cleaner code for the implemenation of the encoder which can be called directly like a library
+2. A mini-project folder in which you will find a code and a cleaner code for the implemenation of the decoder which can be called directly like a library
 
 *If used alone to learn about decoders, I recommand to first check my other repository [[Encoders_Explained]](https://github.com/malerbe/Encoders_Explained)*
 
@@ -28,6 +28,6 @@ You will find:
 - Vaswani, A., et al. (2017). "Attention Is All You Need". *arXiv:1706.03762*. [[Paper]](https://arxiv.org/abs/1706.03762)
 
 ## **Video Resources**
-- Hugging Face. (2022). "Transformer: encoder". [[YouTube]](https://www.youtube.com/watch?v=MUqNwgPjJvQ)
+- Hugging Face. (2022). "Transformer: decodeur". [[YouTube]](https://www.youtube.com/watch?v=d_ixlCubqQw)
 - Machine Learning Studio. "A Dive Into Multihead Attention, Self-Attention and Cross-Attention". [[YouTube]](https://www.youtube.com/watch?v=mmzRYGCfTzc)
 - Machine Learning Studio. "Self-Attention Using Scaled Dot-Product Approach". [[YouTube]](https://youtu.be/1IKrHh2X0F0?si=fQozjbfBRPw7J9p9)
