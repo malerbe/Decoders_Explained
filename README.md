@@ -18,7 +18,7 @@ You will find:
 
 1. A explanations.ipynb notebook in which you will find all the information about decoders and their code implementation.
 
-2. A mini-project folder in which you will find a code and a cleaner code for the implemenation of the decoder which can be called directly like a library
+2. A model.py file in which you will find the whole implemention in a single file. 
 
 *If used alone to learn about decoders, I recommand to first check my other repository [[Encoders_Explained]](https://github.com/malerbe/Encoders_Explained)*
 
@@ -31,3 +31,6 @@ You will find:
 - Hugging Face. (2022). "Transformer: decodeur". [[YouTube]](https://www.youtube.com/watch?v=d_ixlCubqQw)
 - Machine Learning Studio. "A Dive Into Multihead Attention, Self-Attention and Cross-Attention". [[YouTube]](https://www.youtube.com/watch?v=mmzRYGCfTzc)
 - Machine Learning Studio. "Self-Attention Using Scaled Dot-Product Approach". [[YouTube]](https://youtu.be/1IKrHh2X0F0?si=fQozjbfBRPw7J9p9)
+ 
+# Found this helpful?
+If this repository helped you understand decoders, consider giving it a star !
